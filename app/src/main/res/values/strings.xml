@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="str_prob1">Problem1: Quiz App</string>
+    <string name="str_prob2">Problem2: Shopping</string>
+    <string name="str_electronic">Electronics</string>
+    <string name="str_clothes">Clothing</string>
+    <string name="str_beauty">Beauty</string>
+    <string name="str_food">Food</string>
+    <string name="str_welcome">Welcome aganbaatar@miu.edu</string>
+    <string name="q1">Who created Kotlin language?</string>
+    <string name="ans1">Google</string>
+    <string name="ans2">JetBrains</string>
+    <string name="ans3">Facebook</string>
+    <string name="q2">Why people are shifting from Java to Kotlin?</string>
+    <string name="q2ans1">Kotlin uses much lesser code</string>
+    <string name="q2ans2">Kotlin has Null safety</string>
+    <string name="q2ans3">Java uses much lesser code</string>
+    <string name="btn_reset">Reset</string>
+    <string name="btn_submit">Submit</string>
+    <string name="shop_by_categories">Shop by Categories</string>
+</resources>
